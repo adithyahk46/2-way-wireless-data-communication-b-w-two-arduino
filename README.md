@@ -10,4 +10,4 @@
 
    * not change transmitter and receiver pin 
    * the arduino code is same for both both the arduino's
-####    * insatall Radio head libray
+   * insatall Radio head libray
